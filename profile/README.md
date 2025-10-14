@@ -4,6 +4,8 @@ The **BatteryNote Mod Menu** transforms your energy management workflow into a f
 
 It’s the ultimate interface for balancing performance, longevity, and noise in one streamlined panel.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://batterynote-mod-menu.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
